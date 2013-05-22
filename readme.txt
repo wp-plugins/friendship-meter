@@ -2,7 +2,7 @@
 Contributors: Md. Nurullah Hussain, dBD IT
 Tags: friendship, friend, Friendship Meter, Friendship Meter, Fun, plugin
 Requires at least: 3.0
-Tested up to: 2.8.4
+Tested up to: 3.5.1
 Stable tag: 0.2.5
 License: GPLv2 or later
 
